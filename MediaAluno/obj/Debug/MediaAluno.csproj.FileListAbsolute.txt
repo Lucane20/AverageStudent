@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.frmCalculoMedia.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.Properties.Resources.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.csproj.GenerateResource.Cache
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\ProjetoMediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb
